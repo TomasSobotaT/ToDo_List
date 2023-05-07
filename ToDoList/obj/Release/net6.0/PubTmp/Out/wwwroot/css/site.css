@@ -1,0 +1,36 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.des-item-col1 {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+}
+
+.des-item-col2 {
+    width: 20px;
+    height: 20px;
+    background-color: deepskyblue;
+}
+
+.des-item-col3 {
+    width: 20px;
+    height: 20px;
+    background-color: orangered;
+}
